@@ -1,0 +1,9 @@
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\bin\Debug\AVGproject.exe.config
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\bin\Debug\AVGproject.exe
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\bin\Debug\AVGproject.pdb
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AVGproject.Properties.Resources.resources
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AVGproject.csproj.GenerateResource.Cache
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AVGproject.exe
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AVGproject.pdb
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AVGproject.csprojResolveAssemblyReference.cache
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AVGproject.Form_Start.resources

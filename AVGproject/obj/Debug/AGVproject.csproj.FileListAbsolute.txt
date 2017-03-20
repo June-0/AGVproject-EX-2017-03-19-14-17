@@ -1,0 +1,23 @@
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AGVproject.Form_Start.resources
+c:\users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AGVproject.csproj.GenerateResource.Cache
+C:\Users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AGVproject.csprojResolveAssemblyReference.cache
+C:\Users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\bin\Debug\AGVproject.exe.config
+C:\Users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\bin\Debug\AGVproject.exe
+C:\Users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\bin\Debug\AGVproject.pdb
+C:\Users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AGVproject.Properties.Resources.resources
+C:\Users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AGVproject.exe
+C:\Users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\obj\Debug\AGVproject.pdb
+C:\Users\ozxdno\documents\visual studio 2015\Projects\AGVproject\AVGproject\bin\Debug\SCIP_library.dll
+C:\Users\ozxdno\Documents\Visual Studio 2015\Projects\AGVproject EX 2017-03-19-14-17\AVGproject\bin\Debug\AGVproject.exe.config
+C:\Users\ozxdno\Documents\Visual Studio 2015\Projects\AGVproject EX 2017-03-19-14-17\AVGproject\obj\Debug\AGVproject.exe
+C:\Users\ozxdno\Documents\Visual Studio 2015\Projects\AGVproject EX 2017-03-19-14-17\AVGproject\obj\Debug\AGVproject.pdb
+C:\Users\WXJ\Desktop\AGVproject EX 2017-03-19-14-17\AVGproject\bin\Debug\AGVproject.exe.config
+C:\Users\WXJ\Desktop\AGVproject EX 2017-03-19-14-17\AVGproject\obj\Debug\AGVproject.exe
+C:\Users\WXJ\Desktop\AGVproject EX 2017-03-19-14-17\AVGproject\obj\Debug\AGVproject.pdb
+C:\Users\WXJ\Desktop\AGVproject EX 2017-03-19-14-17\AVGproject\bin\Debug\AGVproject.exe
+C:\Users\WXJ\Desktop\AGVproject EX 2017-03-19-14-17\AVGproject\bin\Debug\AGVproject.pdb
+C:\Users\WXJ\Desktop\AGVproject EX 2017-03-19-14-17\AVGproject\bin\Debug\SCIP_library.dll
+C:\Users\WXJ\Desktop\AGVproject EX 2017-03-19-14-17\AVGproject\obj\Debug\AGVproject.csprojResolveAssemblyReference.cache
+C:\Users\WXJ\Desktop\AGVproject EX 2017-03-19-14-17\AVGproject\obj\Debug\AGVproject.Form_Start.resources
+C:\Users\WXJ\Desktop\AGVproject EX 2017-03-19-14-17\AVGproject\obj\Debug\AGVproject.Properties.Resources.resources
+C:\Users\WXJ\Desktop\AGVproject EX 2017-03-19-14-17\AVGproject\obj\Debug\AGVproject.csproj.GenerateResource.Cache
